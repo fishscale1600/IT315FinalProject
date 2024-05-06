@@ -1,6 +1,6 @@
 {
   "APIs":
   [
-    {"APIName":"Hootsuite","APIDesc":"This is the Hootsuite description.","APIcost":"$99.99 per month","APIPlatforms":"Facebook, X","APISite":"https://www.hootsuite.com","APIImage":"hootsuite.jpg","}
-    {"APIName":"MeetEdgar","APIDesc":"This is the MeetEdgar description.","APIcost":"$199.99 per month","APIPlatforms":"Google Suite","APISite":"https://www.meetedgar.com","APIImage":"meetedgar.jpg","}
-    {"APIName":"Buffer","APIDesc":"This is the Buffer description.","APIcost":"$299.99 per month","APIPlatforms":"Instagram, Tiktok","APISite":"https://www.buffer.com","APIImage":"buffer.jpg","}
+    {"APIName":"Hootsuite","APIDesc":"This is the Hootsuite description.","APIcost":"$99.99 per month","APIPlatforms":"Facebook, X","APISite":"https://www.hootsuite.com","APIImage":"https://github.com/fishscale1600/IT315FinalProject/blob/main/hootsuite.png?raw=true","}
+    {"APIName":"MeetEdgar","APIDesc":"This is the MeetEdgar description.","APIcost":"$199.99 per month","APIPlatforms":"Google Suite","APISite":"https://www.meetedgar.com","APIImage":"https://github.com/fishscale1600/IT315FinalProject/blob/main/meetedgar.png?raw=true","}
+    {"APIName":"Buffer","APIDesc":"This is the Buffer description.","APIcost":"$299.99 per month","APIPlatforms":"Instagram, Tiktok","APISite":"https://www.buffer.com","APIImage":"https://github.com/fishscale1600/IT315FinalProject/blob/main/buffer.jpg?raw=true","}
